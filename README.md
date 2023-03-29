@@ -1,2 +1,2 @@
 # Moderate-Jokes_Backend
-The Backend Codebase for the Moderate Jokes Service
+The Full Stack Developer Test by Coduza (Pvt) Ltd
