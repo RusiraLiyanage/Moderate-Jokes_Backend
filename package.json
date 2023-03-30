@@ -1,0 +1,26 @@
+{
+  "name": "backend_moderate_jokes",
+  "version": "1.0.0",
+  "description": "The Full Stack Developer Test by Coduza (Pvt) Ltd",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rusira1234/Moderate-Jokes_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rusira1234/Moderate-Jokes_Backend/issues"
+  },
+  "homepage": "https://github.com/Rusira1234/Moderate-Jokes_Backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  }
+}
